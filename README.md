@@ -42,10 +42,10 @@ Target Variable (in ML): Generated using VADER sentiment scores and mapped to ca
 
 The dataset includes translated user reviews, sentiment polarity (initially), and app identifiers, offering a rich source of textual data for natural language processing.
 
-💻 Platform
+# 💻 Platform
 Google Colab: The entire analysis was implemented using Google Colab, which provides a cloud-based, zero-setup Python environment with free access to GPU/TPU resources and pre-installed data science libraries.
 
-🧰 Tools and Libraries Used
+# 🧰 Tools and Libraries Used
 Tool/Library	Purpose
 Python	Core programming language
 pandas	Data handling and analysis
@@ -121,4 +121,16 @@ NLP Research & Education: Demonstrates dual approach using both rule-based and s
 
 # ✅ Conclusion
 This project demonstrates how to combine NLP preprocessing, rule-based sentiment scoring, and supervised machine learning to build a complete sentiment analysis pipeline. Using both VADER and logistic regression offers a balanced comparison between quick rule-based results and scalable, trainable ML outputs. This methodology is transferable to other domains such as product reviews, movie feedback, or social media analysis.
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/9c5af779-922d-47c9-b8d5-648f6b362e3f)
+![Image](https://github.com/user-attachments/assets/1e137e65-f110-475b-aff8-503b501477e9)
+![Image](https://github.com/user-attachments/assets/30bb1361-b8ad-41b1-bb5a-014a13d1047e)
+![Image](https://github.com/user-attachments/assets/4419f8ca-25c9-4a6f-82cc-18d77bceb925)
+![Image](https://github.com/user-attachments/assets/b1b68fb4-c1a5-4a90-86ad-a30a545dd184)
+![Image](https://github.com/user-attachments/assets/004e9ac4-6df4-4974-abdd-38f228e02825)
+![Image](https://github.com/user-attachments/assets/2d76658e-acb4-42cc-8e42-6aab9ac6c788)
+![Image](https://github.com/user-attachments/assets/1313f54e-52a0-463e-b32e-6d78c1837a79)
+![Image](https://github.com/user-attachments/assets/4d7dd950-eca8-4dbc-ab3a-421fee7223a7)
 
